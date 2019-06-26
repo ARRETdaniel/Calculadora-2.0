@@ -28,9 +28,8 @@ int main()
         scanf("%i", &opcao);
         
         if (opcao == 1){
-
-        system("cls");
-      }
+                        system("cls");
+                       }
 
  if( opcao == 1 ){
 
