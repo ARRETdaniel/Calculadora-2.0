@@ -17,8 +17,8 @@ int main()
 
     do{
 
-        num1, num2, resultado = 0;
-        opcao, opcao_op = 0;
+        num1 = num2 = resultado = 0;
+        opcao = opcao_op = 0;
 
 
 
