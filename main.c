@@ -26,7 +26,11 @@ int main()
         printf("\t\n\n\tDigite (1) para CONTINUAR ou (0) para SAIR\n");
 
         scanf("%i", &opcao);
-        //opcao_op = getche();
+        
+        if (opcao == 1){
+
+        system("cls");
+      }
 
  if( opcao == 1 ){
 
